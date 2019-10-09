@@ -1,2 +1,2 @@
-echo "Success"
-exit 0;
+echo "Failed"
+exit 1;
